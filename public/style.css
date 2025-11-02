@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  input {
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+  }
+
+    input:hover {
+  background-color: rgb(146, 192, 207);
+}  
+
+.titulo {
+    border-bottom: 2px solid black;
+    display: inline-block;
+    text-align: center;
+  }
+  
+  #boton {
+    padding: 5px;
+    background-color: rgb(198, 204, 199);
+    border: 1ppx;
+    border-color: black;
+    cursor: pointer;
+    margin: 10px auto;
+  }
